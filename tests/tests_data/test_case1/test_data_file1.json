@@ -1,0 +1,19 @@
+[
+  {
+    "resourceType": "Test1",
+    "id": 12345,
+    "meta": {
+      "id": "lll",
+      "extension": null,
+      "versionId": null,
+      "_versionId": null,
+      "lastUpdated": "000002220202020202",
+      "_lastUpdated": null,
+      "source": null,
+      "_source": null,
+      "profile": null,
+      "security": null,
+      "tag": null
+    }
+  }
+]

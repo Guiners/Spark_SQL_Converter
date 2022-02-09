@@ -1,0 +1,102 @@
+[
+  {
+    "resourceType": "Patient",
+    "id": 123,
+    "meta": {
+      "id": null,
+      "extension": null,
+      "versionId": null,
+      "_versionId": null,
+      "lastUpdated": "2014-08-18T01:43:30+00:00",
+      "_lastUpdated": null,
+      "source": null,
+      "_source": null,
+      "profile": null,
+      "security": null,
+      "tag": null
+    },
+    "implicitRules": 1,
+    "_implicitRules": "",
+    "language": "",
+    "_language": "",
+    "text": "{\"id\":null,\"extension\":null,\"status\":\"generated\",\"_status\":null,\"div\":\"<div xmlns=\"http://www.w3.org/1999/xhtml\">Some narrative</div>\"}",
+    "contained": "",
+    "extension": "",
+    "modifierExtension": "",
+    "identifier": [
+      {
+        "id": null,
+        "extension": null,
+        "use": null,
+        "_use": null,
+        "type": null,
+        "system": "https://github.com/synthetichealth/synthea",
+        "_system": null,
+        "value": "3",
+        "_value": null,
+        "period": null,
+        "assigner": null
+      },
+      {
+        "id": null,
+        "extension": null,
+        "use": null,
+        "_use": null,
+        "type": null,
+        "system": "https://jnj.com/dsep",
+        "_system": null,
+        "value": "9ae56591-6620-474c-87bc-002888501e84",
+        "_value": null,
+        "period": null,
+        "assigner": null
+      }
+    ],
+    "active": true,
+    "_active": "",
+    "name": [
+      {
+        "id": null,
+        "extension": null,
+        "use": "official",
+        "_use": null,
+        "text": null,
+        "_text": null,
+        "family": "Chalmers",
+        "_family": null,
+        "given": [
+          "Peter",
+          "James"
+        ],
+        "_given": null,
+        "prefix": null,
+        "_prefix": null,
+        "suffix": null,
+        "_suffix": null,
+        "period": null
+      }
+    ],
+    "telecom": "",
+    "gender": "male",
+    "_gender": "",
+    "birthDate": "1974-12-25",
+    "_birthDate": "",
+    "deceasedBoolean": "",
+    "_deceasedBoolean": "",
+    "deceasedDateTime": "",
+    "_deceasedDateTime": "",
+    "address": "",
+    "maritalStatus": "",
+    "multipleBirthBoolean": "",
+    "_multipleBirthBoolean": "",
+    "multipleBirthInteger": "",
+    "_multipleBirthInteger": "",
+    "photo": "",
+    "contact": "",
+    "communication": "",
+    "generalPractitioner": "",
+    "managingOrganization": "",
+    "link": "",
+    "source": "fhir",
+    "application": "bundles"
+  }
+]

@@ -1,0 +1,2 @@
+INSERT INTO databasenamelalalalalala VALUES
+('Test1', '12345', NAMED_STRUCT('id':'lll','extension':null,'versionId':null,'_versionId':null,'lastUpdated':'000002220202020202','_lastUpdated':null,'source':null,'_source':null,'profile':null,'security':null,'tag':null), null, null, null, null, null, null, null, null);
